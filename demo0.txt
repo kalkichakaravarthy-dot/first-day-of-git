@@ -1,2 +1,3 @@
 hi everyone
 hello world 
+int a=50
